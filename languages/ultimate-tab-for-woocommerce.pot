@@ -1,0 +1,64 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Ultimate Tab for WooCommerce\n"
+"POT-Creation-Date: 2017-03-05 13:22+0600\n"
+"PO-Revision-Date: 2017-03-05 13:22+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ultimate-tab-for-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: lib/backend-field.php:11
+msgid "Unlimited Tabs"
+msgstr ""
+
+#: lib/backend-field.php:36 lib/backend-field.php:37 lib/backend-field.php:57
+#: lib/backend-field.php:58
+msgid "Tab Title"
+msgstr ""
+
+#: lib/backend-field.php:40 lib/backend-field.php:41 lib/backend-field.php:61
+#: lib/backend-field.php:62
+msgid "Tab Description"
+msgstr ""
+
+#: lib/backend-field.php:43 lib/backend-field.php:64
+msgid "- Remove"
+msgstr ""
+
+#: lib/backend-field.php:71
+msgid "+ Add Another Tab"
+msgstr ""
+
+#: ultimate-tab-for-woocommerce.php:46
+msgid "Please install & activate WooCommerce for WP WooCommerce Tab plugin."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Tab for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://wpgog.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Ultimate Tab for WooCommerce is a plugins ultimate tab in WooCommerce"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "wpgog"
+msgstr ""

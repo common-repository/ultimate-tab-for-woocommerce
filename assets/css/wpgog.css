@@ -1,0 +1,30 @@
+/* -------------------------------- *
+ *   Ultimate Tab for WooCommerce  	*
+ * -------------------------------- */
+#addunlimitedtabs{
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+#unlimited_tabs input.removeUnlimitedTabs{
+    position: absolute;
+    right: 20px;
+    background-color: #d9534f;
+    color: #fff;
+    box-shadow: 0 1px 0 #e85959;
+    -webkit-box-shadow: 0 1px 0 #e85959;
+    border-color: #cc5151;
+}
+#unlimited_tabs textarea.short{
+    width: 100%;
+    height: 100px;
+}
+#unlimited_tabs input.shorts{
+    width: 100%;
+}
+#unlimited_tabs{
+  padding-bottom: 65px;
+}
+.unlimited_tab_field_copy{
+  padding-bottom: 35px;
+}
